@@ -1,2 +1,2 @@
-# prisma-cloud-playground
+# Prisma Cloud Playground
 Playground for Testing Prisma Cloud APIs
